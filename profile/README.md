@@ -46,9 +46,9 @@ Menjadi brand/persona media sosial yang menjual dan memberi ide soal perkembanga
 
 > Daftar ini akan bertambah seiring organisasi berkembang.
 
-| Repositori | Deskripsi |
-|---|---|
-| _segera hadir_ | Kode pendamping untuk konten dan notebook Scriptori |
+| Repositori | Deskripsi | Ketuntasan |
+|---|---|---|
+| Tenun CV | - | _masih dibuat secara lokal_ |
 
 ## Ikuti Scriptori
 
