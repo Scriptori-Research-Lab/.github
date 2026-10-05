@@ -14,7 +14,7 @@ Kode · Konten · Notebook
 
 Scriptori adalah brand dan laboratorium riset terbuka yang mengikuti perkembangan AI terbaru, membedahnya secara teknis, lalu mengubahnya menjadi ide, kode, dan panduan yang bisa langsung dipakai.
 
-Banyak riset AI berhenti di makalah atau cuplikan berita. Kami mengisi celah di antaranya: memahami apa yang sebenarnya terjadi di balik sebuah temuan, lalu menunjukkan cara menerapkannya pada masalah nyata, dengan bahasa dan konteks yang dekat dengan pembaca di Indonesia.
+Banyak riset AI berhenti di makalah atau cuplikan berita. Kami mengisi celah di antaranya: memahami apa yang sebenarnya terjadi di balik sebuah temuan, lalu menunjukkan cara menerapkannya sebagai solusi nyata, baik untuk kebutuhan bisnis maupun kebutuhan personal, dengan bahasa dan konteks yang dekat dengan pembaca di Indonesia.
 
 ## Apa yang Kami Kerjakan
 
@@ -27,7 +27,7 @@ Banyak riset AI berhenti di makalah atau cuplikan berita. Kami mengisi celah di 
 
 ## Visi
 
-Menjadi brand media sosial yang memberi ide dan menghadirkan penerapan AI terbaru, melalui kode, konten, dan notebook, dengan selalu mengikuti perkembangan AI.
+Menjadi brand/persona media sosial yang menjual dan memberi ide soal perkembangan dan penerapan AI terbaru, dengan menerjemahkan riset AI terbaru menjadi solusi yang aplikatif untuk kebutuhan bisnis maupun personal pelanggan, mengikuti tren dan perkembangan AI, melalui kode, konten, dan notebook.
 
 ## Misi
 
